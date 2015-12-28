@@ -1,5 +1,5 @@
 # datascience
-## This is a SecondaryHeading
+## This is a Secondary Heading
 ## This is a Tertiary Heading
 * Item one
 * Item two
